@@ -1,0 +1,34 @@
+i.icon {
+    font-size: 2em;
+    color:lightslategrey;
+}
+
+.container.main{
+    margin-top: 7.0em;
+    background-color: #3E6798
+}
+
+body{
+    background-color:#787575
+}
+
+#delete{
+    display: inline;
+}
+
+#b1{
+    background-color:#3E6798
+}
+
+#b2{
+    background-color: #4D63C1;
+}
+
+#b3{
+    color: blanchedalmond
+}
+#aa{
+    margin-top: 10px auto;
+}
+
+
